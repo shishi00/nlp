@@ -11,7 +11,7 @@ Organization: INFO 159
 
 1. **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
 
-	The dataset was created to answer the question “How culturally sensitive pieces of dialogue from shows aired in 2000 to 2010 would be perceived in 2022 standards?”. 
+	The dataset was created to answer the question “How culturally sensitive pieces of dialogue from shows aired in 2000 to 2010 would be perceived in 2022 standards?" for our Annotation Project.
 
 
 2. **Who created this dataset (e.g. which team, research group) and on behalf of which entity (e.g. company, institution, organization)**?
@@ -106,55 +106,55 @@ Organization: INFO 159
 
 1. **How was the data associated with each instance acquired?** Was the data directly observable (e.g. raw text, movie ratings), reported by subjects (e.g. survey responses), or indirectly inferred/derived from other data (e.g. part-of-speech tags, model-based guesses for age or language)? If data was reported by subjects or indirectly inferred/derived from other data, was the data validated/verified? If so, please describe how.
 
-	*Your Answer Here*
+	The data was directly observable. It was raw text, which consisted of dialogues from 4 different TV shows (House MD, The Big Bang Theory, The Simpson, and Friends). The data was from Kaggle, then combined and filtered based on the TV shows' season released dates.
 
 2. **What mechanisms or procedures were used to collect the data (e.g. hardware apparatus or sensor, manual human curation, software program, software API)?** How were these mechanisms or procedures validated?
 
-	*Your Answer Here*
+	N/A
 
 3. **If the dataset is a sample from a larger set, what was the sampling strategy (e.g. deterministic, probabilistic with specific sampling probabilities)?**
 
-	*Your Answer Here*
+	The dataset consisted of 1000 datapoints, which were randomly chosen. 
 
 4. **Who was involved in the data collection process (e.g. students, crowdworkers, contractors) and how were they compensated (e.g. how much were crowdworkers paid)?**
 
-	*Your Answer Here*
+	N/A
 
 5. **Over what timeframe was the data collected?** Does this timeframe match the creation timeframe of the data associated with the instances (e.g. recent crawl of old news articles)? If not, please describe the timeframe in which the data associated with the instances was created. Finally, list when the dataset was first published.
 
-	*Your Answer Here*
+	March 2022
 
 7. **Were any ethical review processes conducted (e.g. by an institutional review board)?** If so, please provide a description of these review processes, including the outcomes, as well as a link or other access point to any supporting documentation.
 
-	*Your Answer Here*
+	N/A
 
 8. **Does the dataset relate to people?** If not, you may skip the remainder of the questions in this section.
 
-	*Your Answer Here*
+	Yes, the dataset were dialogues. 
 
 9. **Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g. websites)?**
 
-	*Your Answer Here*
+	We collected the data via a third party (Kaggle). 
 
 10. **Were the individuals in question notified about the data collection?** If so, please describe (or show with screenshots or other information) how notice was provided, and provide a link or other access point to, or otherwise reproduce, the exact language of the notification itself.
 
-	*Your Answer Here*
+	No, the dataset was publicly available. They were dialogues from TV shows.
 
 11. **Did the individuals in question consent to the collection and use of their data?** If so, please describe (or show with screenshots or other information) how consent was requested and provided, and provide a link or other access point to, or otherwise reproduce, the exact language to which the individuals consented.
 
-	*Your Answer Here*
+	Yes, the individuals (actors, actresses, writers, etc.) consented by publishing their work.
 
 12. **If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?** If so, please provide a description, as well as a link or other access point to the mechanism (if appropriate).
 
-	*Your Answer Here*
+	Yes, the consenting individuals could revoke their consent by requesting to remove their work in the future.
 
 13. **Has an analysis of the potential impact of the dataset and its use on data subjects (e.g. a data protection impact analysis) been conducted?** If so, please provide a description of this analysis, including the outcomes, as well as a link or other access point to any supporting documentation.
 
-	*Your Answer Here*
+	No.
 
 14. **Any other comments?**
 
-	*Your Answer Here*
+	N/A
 
 
 ## Preprocessing / Cleaning / Labeling
