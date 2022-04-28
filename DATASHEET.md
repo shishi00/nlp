@@ -184,27 +184,27 @@ Organization: INFO 159
 
 1. **Has the dataset been used for any tasks already?** If so, please provide a description.
 
-	*Your Answer Here*
+	Yes, the dataset has been used to answer the question “How culturally sensitive pieces of dialogue from shows aired in 2000 to 2010 would be perceived in 2022 standards?”. It was used to build NLP models to classify the dialogues into labels from 1 to 5. A score of 1 corresponds to the little to no insensitivity, and a score of 5 corresponds to extremely “cancellable.” 
 
 2. **Is there a repository that links to any or all papers or systems that use the dataset?** If so, please provide a link or other access point.
 
-	*Your Answer Here*
+	No.
 
 3. **What (other) tasks could the dataset be used for?**
 
-	*Your Answer Here*
+	The dataset could be used for question-answering tasks, such as generating jokes, or conversations.
 
 4. **Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?** For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g. stereotyping, quality of service issues) or other undesirable harms (e.g. financial harms, legal risks) If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?
 
-	*Your Answer Here*
-
+	No.
+	
 5. **Are there tasks for which the dataset should not be used?** If so, please provide a description.
 
-	*Your Answer Here*
+	No.
 
 6. **Any other comments?**
 
-	*Your Answer Here*
+	No.
 
 
 ## Distribution
