@@ -1,8 +1,8 @@
 # Datasheet: *Your Dataset Name Here*
 
-Author: *Your Name Here*
+Author: Thi Nguyen
 
-Organization: *Your Organization Here*
+Organization: INFO 159 
 
 
 ## Motivation
@@ -11,7 +11,8 @@ Organization: *Your Organization Here*
 
 1. **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
 
-	*Your Answer Here*
+	aaa
+
 
 2. **Who created this dataset (e.g. which team, research group) and on behalf of which entity (e.g. company, institution, organization)**?
 
