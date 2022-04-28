@@ -11,20 +11,20 @@ Organization: INFO 159
 
 1. **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
 
-	aaa
+	The dataset was created to answer the question “How culturally sensitive pieces of dialogue from shows aired in 2000 to 2010 would be perceived in 2022 standards?”. 
 
 
 2. **Who created this dataset (e.g. which team, research group) and on behalf of which entity (e.g. company, institution, organization)**?
 
-	*Your Answer Here*
+	My team (Jihee, Kaity, Thi) created this dataset for INFO 159 Annotation Project. 
 
 3. **What support was needed to make this dataset?** (e.g. who funded the creation of the dataset? If there is an associated grant, provide the name of the grantor and the grant name and number, or if it was supported by a company or government agency, give those details.)
 
-	*Your Answer Here*
+	N/A
 
 4. **Any other comments?**
 
-	*Your Answer Here*
+	N/A
 
 
 ## Composition
